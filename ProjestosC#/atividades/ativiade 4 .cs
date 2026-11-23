@@ -1,8 +1,8 @@
-namespace ativiade_4
+namespace atividade_4
 {
     class Atividade_4
     {
-        public static void NotaAluno()
+        public void NotaAluno()
         {
             Console.WriteLine(" Digite a nota do aluno: ");
             double nota = double.Parse(Console.ReadLine());

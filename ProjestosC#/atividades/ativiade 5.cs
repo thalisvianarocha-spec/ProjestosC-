@@ -2,7 +2,7 @@ namespace atividade_5
 {
     class Atividade_5
     {
-        public static void Tabuada()
+        public void Tabuada()
         {
             Console.WriteLine("tabuada de : ");
             int nu = int.Parse(Console.ReadLine());
