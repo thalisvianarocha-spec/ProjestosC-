@@ -1,8 +1,8 @@
-namespace ativiade_2
+namespace atividade_2
 {
     class Atividade_2
     {
-        public static void Media()
+        public void Media()
         {
             Console.Write(" Digite o Primeiro Número: ");
             double n1 = double.Parse(Console.ReadLine());

@@ -1,8 +1,8 @@
-namespace ativiade_3
+namespace atividade_3
 {
     class Atividade_3
     {
-        public static void Renda()
+        public void Renda()
         {
             Console.Write("Qual seu Nome: ");
             string nome = Console.ReadLine();
